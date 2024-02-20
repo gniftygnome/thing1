@@ -31,7 +31,7 @@
 		"java": ">=17",
 		"fabric-api": "*"
 	},
-	"requres": {
+	"requires": {
 		"terraform-wood-api-v1": "*"
 	}
 }
