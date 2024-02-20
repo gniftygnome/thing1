@@ -1,4 +1,4 @@
-package com.example;
+package net.gnomecraft.thing1;
 
 import net.fabricmc.api.ClientModInitializer;
 
